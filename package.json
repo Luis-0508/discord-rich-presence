@@ -1,0 +1,22 @@
+{
+  "name": "discord-rich-presence",
+  "version": "1.0.0",
+  "description": "A Custom Discord Rich Presence with your very own customizable buttons, images and text!",
+  "main": "status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBossu/discord-rich-presence.git"
+  },
+  "author": "TheBossu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TheBossu/discord-rich-presence/issues"
+  },
+  "homepage": "https://github.com/TheBossu/discord-rich-presence#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
